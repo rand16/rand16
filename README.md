@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,go&perline=3)](https://skillicons.dev)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rand16)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rand16)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 参考資料: https://qiita.com/ulxsth/items/ca2b85eb8d16eeca5504 -->
